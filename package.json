@@ -104,6 +104,6 @@
     "typescript": "4.2.4"
   },
   "resolutions": {
-    "**/lodash": "^4.17.19"
+    "**/lodash": "^4.17.21"
   }
 }
